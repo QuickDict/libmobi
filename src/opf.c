@@ -25,6 +25,7 @@
 #endif
 #include <libxml/encoding.h>
 #include <libxml/xmlwriter.h>
+#include <libxml/xmlreader.h>
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
